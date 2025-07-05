@@ -9,4 +9,4 @@ A colorful and emoji-filled number guessing game built with Python and Colorama.
 - Get hints if you're too high or too low
 - Celebrate when you win! 🎉
 
-### Under work!🔧🎀
+### Under major construction🔧

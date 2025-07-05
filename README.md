@@ -8,3 +8,5 @@ A colorful and emoji-filled number guessing game built with Python and Colorama.
 - Guess a number between 1 and 10
 - Get hints if you're too high or too low
 - Celebrate when you win! 🎉
+
+### Under work!🔧🎀

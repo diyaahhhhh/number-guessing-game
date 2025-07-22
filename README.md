@@ -11,6 +11,7 @@ A colorful and emoji-filled number guessing game🎀
 
 ## 🚀 Live Demo
 Check it out here: https://number-guessing-game-8d88.onrender.com/
+(UNDER MAJOR EDITING)
 
 ## 🛠️ Tech Stack
 - Python 🐍

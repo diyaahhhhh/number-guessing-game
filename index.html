@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Annie's Number Game 🎲</title>
+    <style>
+        body { font-family: 'Segoe UI'; text-align: center; margin-top: 50px; background-color: #fff8f5; }
+        input, button { padding: 10px; font-size: 16px; margin: 10px; }
+        .msg { font-size: 20px; color: #6a0dad; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>🎲 Welcome to Annie's Number Guessing Game</h1>
+    <form method="POST">
+        <input type="text" name="guess" placeholder="Enter your guess">
+        <button type="submit">Submit</button>
+    </form>
+    {% if message %}
+        <div class="msg">{{ message }}</div>
+    {% endif %}
+</body>
+</html>

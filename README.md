@@ -1,12 +1,20 @@
 # 🎲 Number Guessing Game
 
-A colorful and emoji-filled number guessing game built with Python and Colorama.
+A colorful and emoji-filled number guessing game🎀
 
-## 💻 How to Play
+## ✨Features
 
-- Run the game using Python
-- Guess a number between 1 and 10
+- Random numbers between 1-10
 - Get hints if you're too high or too low
-- Celebrate when you win! 🎉
+- Celebrate your win 🎉
+- 💻Deployed using Render
 
-### Status: ongoing🔧
+## 🚀 Live Demo
+Check it out here: https://number-guessing-game-8d88.onrender.com/
+
+## 🛠️ Tech Stack
+- Python 🐍
+- Flask 🌐
+- HTML (via index.html)
+- Colorama for terminal vibes 🎨
+- Gunicorn for deployment 🔧
